@@ -92,8 +92,8 @@ a {
 /*
 @media screen and (max-width:23.5em) {
     body {
-        /* padding-block: 5.3125em; */
-        /* padding-inline: 1.875em; */
+        -padding-block: 5.3125em;
+        -padding-inline: 1.875em; 
         padding-top: 12.7%;
         padding-inline: 8%;
 
